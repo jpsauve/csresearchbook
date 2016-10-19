@@ -80,6 +80,7 @@ This chapter shows how to understand the state-of-the-art in a given research ar
     - Online tools to organize what you read
     - When do you stop?
     - How to write a literature review
+
 ## Part II: Doing Effective Research
 Computer Science is different from other fields in important ways: it is partly engineering, partly mathematics and partly science. Part II discusses scientific methodology in general and how it is particularly applied in Computer Science. 
 
